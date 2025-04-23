@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ura-visual-coddera/static/css/main.d2fc5388.css",
-    "main.js": "/ura-visual-coddera/static/js/main.28e9d6cc.js",
+    "main.css": "/ura-visual-coddera/static/css/main.f76d0738.css",
+    "main.js": "/ura-visual-coddera/static/js/main.52f0de0d.js",
     "static/js/453.04174a64.chunk.js": "/ura-visual-coddera/static/js/453.04174a64.chunk.js",
     "static/media/sams_logo.png": "/ura-visual-coddera/static/media/sams_logo.d733b90fa4bfc27baefa.png",
     "index.html": "/ura-visual-coddera/index.html",
-    "main.d2fc5388.css.map": "/ura-visual-coddera/static/css/main.d2fc5388.css.map",
-    "main.28e9d6cc.js.map": "/ura-visual-coddera/static/js/main.28e9d6cc.js.map",
+    "main.f76d0738.css.map": "/ura-visual-coddera/static/css/main.f76d0738.css.map",
+    "main.52f0de0d.js.map": "/ura-visual-coddera/static/js/main.52f0de0d.js.map",
     "453.04174a64.chunk.js.map": "/ura-visual-coddera/static/js/453.04174a64.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2fc5388.css",
-    "static/js/main.28e9d6cc.js"
+    "static/css/main.f76d0738.css",
+    "static/js/main.52f0de0d.js"
   ]
 }
